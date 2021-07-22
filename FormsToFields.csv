@@ -1,4 +1,4 @@
-state,fiscal_year,value,agency,bureau,program
+field_name,field_first,value,form_name,form_field_count,field_form_count
 Absence Code,Absence ,3,SF2803,42,<5
 Address City Name,Address ,57,SF2803,42,<75
 Address Line,Address ,58,SF2803,42,<75
