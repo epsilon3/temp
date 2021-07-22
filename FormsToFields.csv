@@ -1,0 +1,784 @@
+state,fiscal_year,value,agency,bureau,program
+Absence Code,Absence ,3,SF2803,42,<5
+Address City Name,Address ,57,SF2803,42,<75
+Address Line,Address ,58,SF2803,42,<75
+Address Line Extension,Address ,49,SF2803,42,<50
+Address Postal Code,Address ,54,SF2803,42,<75
+Address Postal Extension Code,Address ,48,SF2803,42,<50
+Address State Code,Address ,58,SF2803,42,<75
+Address Type Code,Address ,52,SF2803,42,<75
+Agency Subelement Code,Agency ,29,SF2803,42,<50
+Agency Subelement Name,Agency ,3,SF2803,42,<5
+Application Type Code,Application ,3,SF2803,42,<5
+Basic Pay Amount,Basic ,1,SF2803,42,<5
+Civil Service Retirement Coverage Indicator,Civil ,1,SF2803,42,<5
+Contact Information Email Address,Contact ,11,SF2803,42,<20
+Contact Information Fax Number,Contact ,3,SF2803,42,<5
+Contact Information Phone Number,Contact ,39,SF2803,42,<50
+Employee Position End Date,Employee ,7,SF2803,42,<10
+Employee Position Start Date,Employee ,5,SF2803,42,<10
+Nature of Action Agency Extension Description,Nature ,1,SF2803,42,<5
+Pay Basis Code,Pay ,4,SF2803,42,<5
+Pay Code,Pay ,4,SF2803,42,<5
+Pay Pay Period End Date,Pay ,2,SF2803,42,<5
+Pay Pay Period Start Date,Pay ,2,SF2803,42,<5
+Person Birth Date,Person ,55,SF2803,42,<75
+Person Family Name,Person ,76,SF2803,42,75+
+Person Given Name,Person ,76,SF2803,42,75+
+Person Middle Initial,Person ,75,SF2803,42,75+
+Person Middle Name,Person ,76,SF2803,42,75+
+Person Pre-Fix Name,Person ,75,SF2803,42,75+
+Person Signature Date,Person ,76,SF2803,42,75+
+Person Signature Indicator,Person ,51,SF2803,42,<75
+Person Social Security Number,Person ,40,SF2803,42,<50
+Person Suffix Name,Person ,76,SF2803,42,75+
+Person Type Code,Person ,77,SF2803,42,75+
+Personnel Action Effective Date,Personnel ,3,SF2803,42,<5
+Position Official Title,Position ,15,SF2803,42,<20
+Retirement Claim Number,Retirement ,8,SF2803,42,<10
+Retirement Date Deductions Began Start Date,Retirement ,1,SF2803,42,<5
+Retirement Service Application Code,Retirement ,2,SF2803,42,<5
+Retirement Witholdings Deduction Type Code,Retirement ,4,SF2803,42,<5
+Service Credit Payment Type Code,Service ,4,SF2803,42,<5
+Service Period Pay Indicator,Service ,2,SF2803,42,<5
+Address City Name,Address ,57,SF2806,23,<75
+Address Line,Address ,58,SF2806,23,<75
+Address Line Extension,Address ,49,SF2806,23,<50
+Address Postal Code,Address ,54,SF2806,23,<75
+Address Postal Extension Code,Address ,48,SF2806,23,<50
+Address State Code,Address ,58,SF2806,23,<75
+Address Type Code,Address ,52,SF2806,23,<75
+Agency Payroll Office Identifier,Agency ,9,SF2806,23,<10
+Agency Subelement Code,Agency ,29,SF2806,23,<50
+Pay Deductions,Pay ,7,SF2806,23,<10
+Payroll Summary Year,Payroll ,6,SF2806,23,<10
+Person Birth Date,Person ,55,SF2806,23,<75
+Person Family Name,Person ,76,SF2806,23,75+
+Person Given Name,Person ,76,SF2806,23,75+
+Person Middle Initial,Person ,75,SF2806,23,75+
+Person Middle Name,Person ,76,SF2806,23,75+
+Person Pre-Fix Name,Person ,75,SF2806,23,75+
+Person Suffix Name,Person ,76,SF2806,23,75+
+Personnel Action Effective Date,Personnel ,3,SF2806,23,<5
+Personnel Action Request Number,Personnel ,2,SF2806,23,<5
+Remarks,Remarks,10,SF2806,23,<20
+Salary Pay Total Amount,Salary ,5,SF2806,23,<10
+Voluntary Separation Incentive Payment (VSIP) Date,Voluntary ,4,SF2806,23,<5
+Address City Name,Address ,57,SF2806-1,24,<75
+Address Line,Address ,58,SF2806-1,24,<75
+Address Line Extension,Address ,49,SF2806-1,24,<50
+Address Postal Code,Address ,54,SF2806-1,24,<75
+Address Postal Extension Code,Address ,48,SF2806-1,24,<50
+Address State Code,Address ,58,SF2806-1,24,<75
+Address Type Code,Address ,52,SF2806-1,24,<75
+Agency Payroll Office Identifier,Agency ,9,SF2806-1,24,<10
+Agency Subelement Code,Agency ,29,SF2806-1,24,<50
+Employee Benefit or Incentive Service Obligation Explanation,Employee ,1,SF2806-1,24,<5
+Pay Deductions,Pay ,7,SF2806-1,24,<10
+Payroll Summary Year,Payroll ,6,SF2806-1,24,<10
+Person Birth Date,Person ,55,SF2806-1,24,<75
+Person Family Name,Person ,76,SF2806-1,24,75+
+Person Given Name,Person ,76,SF2806-1,24,75+
+Person Middle Initial,Person ,75,SF2806-1,24,75+
+Person Middle Name,Person ,76,SF2806-1,24,75+
+Person Pre-Fix Name,Person ,75,SF2806-1,24,75+
+Person Signature Date,Person ,76,SF2806-1,24,75+
+Person Signature Indicator,Person ,51,SF2806-1,24,<75
+Person Social Security Number,Person ,40,SF2806-1,24,<50
+Person Suffix Name,Person ,76,SF2806-1,24,75+
+Position Official Title,Position ,15,SF2806-1,24,<20
+Voluntary Separation Incentive Payment (VSIP) Date,Voluntary ,4,SF2806-1,24,<5
+Additional Personnel Action Remarks,Additional ,2,SF2807,25,<5
+Address City Name,Address ,57,SF2807,25,<75
+Address Line,Address ,58,SF2807,25,<75
+Address Line Extension,Address ,49,SF2807,25,<50
+Address Postal Code,Address ,54,SF2807,25,<75
+Address Postal Extension Code,Address ,48,SF2807,25,<50
+Address State Code,Address ,58,SF2807,25,<75
+Address Type Code,Address ,52,SF2807,25,<75
+Agency Payroll Office Identifier,Agency ,9,SF2807,25,<10
+Agency Received Date,Agency ,5,SF2807,25,<10
+Agency Subelement Code,Agency ,29,SF2807,25,<50
+Agency Subelement Name,Agency ,3,SF2807,25,<5
+Employee Separated Date,Employee ,2,SF2807,25,<5
+FEGLI Basic Life Insurance Benefits Retirement Deduction Code,FEGLI ,3,SF2807,25,<5
+Pay Deduction Code,Pay ,16,SF2807,25,<20
+Payroll Summary Year Salary Deduction Amount,Payroll ,8,SF2807,25,<10
+Person Birth Date,Person ,55,SF2807,25,<75
+Person Family Name,Person ,76,SF2807,25,75+
+Person Given Name,Person ,76,SF2807,25,75+
+Person Middle Initial,Person ,75,SF2807,25,75+
+Person Middle Name,Person ,76,SF2807,25,75+
+Person Pre-Fix Name,Person ,75,SF2807,25,75+
+Person Suffix Name,Person ,76,SF2807,25,75+
+Person Type Code,Person ,77,SF2807,25,75+
+Retirement Plan Type Code,Retirement ,8,SF2807,25,<10
+Address City Name,Address ,57,SF2808,29,<75
+Address Line,Address ,58,SF2808,29,<75
+Address Line Extension,Address ,49,SF2808,29,<50
+Address Postal Code,Address ,54,SF2808,29,<75
+Address Postal Extension Code,Address ,48,SF2808,29,<50
+Address State Code,Address ,58,SF2808,29,<75
+Address Type Code,Address ,52,SF2808,29,<75
+Agency Division,Agency ,7,SF2808,29,<10
+Agency Subelement Code,Agency ,29,SF2808,29,<50
+Beneficiary Designation Cancelation Indicator,Beneficiary ,3,SF2808,29,<5
+Beneficiary Designation Common Disaster Clause Indicator,Beneficiary ,3,SF2808,29,<5
+Beneficiary Designation Date,Beneficiary ,1,SF2808,29,<5
+Beneficiary Relationship Code,Beneficiary ,10,SF2808,29,<20
+Beneficiary Share Percent,Beneficiary ,2,SF2808,29,<5
+Contingency Beneficiary If Living Indicator,Contingency ,3,SF2808,29,<5
+Contingency Beneficiary Organization If Valid Indicator,Contingency ,3,SF2808,29,<5
+Contingency Beneficiary Otherwise to Indicator,Contingency ,3,SF2808,29,<5
+Organization Name,Organization ,1,SF2808,29,<5
+Person Birth Date,Person ,55,SF2808,29,<75
+Person Family Name,Person ,76,SF2808,29,75+
+Person Given Name,Person ,76,SF2808,29,75+
+Person Middle Initial,Person ,75,SF2808,29,75+
+Person Middle Name,Person ,76,SF2808,29,75+
+Person Pre-Fix Name,Person ,75,SF2808,29,75+
+Person Signature Indicator,Person ,51,SF2808,29,<75
+Person Social Security Number,Person ,40,SF2808,29,<50
+Person Suffix Name,Person ,76,SF2808,29,75+
+Person Type Code,Person ,77,SF2808,29,75+
+Retirement Claim Number,Retirement ,8,SF2808,29,<10
+Address City Name,Address ,57,SF2809,61,<75
+Address Line,Address ,58,SF2809,61,<75
+Address Line Extension,Address ,49,SF2809,61,<50
+Address Postal Code,Address ,54,SF2809,61,<75
+Address Postal Extension Code,Address ,48,SF2809,61,<50
+Address State Code,Address ,58,SF2809,61,<75
+Address Type Code,Address ,52,SF2809,61,<75
+Agency Payroll Office Identifier,Agency ,9,SF2809,61,<10
+Agency Received Date,Agency ,5,SF2809,61,<10
+Agency Subelement Code,Agency ,29,SF2809,61,<50
+Contact Information Email Address,Contact ,11,SF2809,61,<20
+Contact Information Phone Number,Contact ,39,SF2809,61,<50
+FEHB Enrollee Additional FEHB Plan Health Insurance Benefits Coverage Indicator,FEHB ,1,SF2809,61,<5
+FEHB Enrollee Additional Other Health Insurance Benefits Indicator,FEHB ,1,SF2809,61,<5
+FEHB Enrollee Other Health Insurance Benefits Coverage Indicator,FEHB ,2,SF2809,61,<5
+FEHB Enrollee Other Health Insurance Benefits Plan Name,FEHB ,1,SF2809,61,<5
+FEHB Enrollee Other Health Insurance Benefits Policy Number,FEHB ,1,SF2809,61,<5
+FEHB Enrollee TRICARE Plan Health Insurance Benefits Coverage Indicator,FEHB ,1,SF2809,61,<5
+FEHB Family Member Additional FEHB Health Insurance Benefits Coverage Indicator,FEHB ,1,SF2809,61,<5
+FEHB Family Member Health Insurance Benefits Plan Name,FEHB ,1,SF2809,61,<5
+FEHB Family Member Other Health Insurance Benefits Coverage Indicator,FEHB ,1,SF2809,61,<5
+FEHB Family Member Other Health Insurance Benefits Policy Number,FEHB ,1,SF2809,61,<5
+FEHB Family Member TRICARE Health Insurance Benefits Coverage Indicator,FEHB ,1,SF2809,61,<5
+FEHB Health Insurance Benefits Cancellation Indicator,FEHB ,1,SF2809,61,<5
+FEHB Health Insurance Benefits Election Effective Date,FEHB ,2,SF2809,61,<5
+FEHB Health Insurance Benefits Enrollment Code,FEHB ,9,SF2809,61,<10
+FEHB Health Insurance Benefits Enrollment Decline Indicator,FEHB ,1,SF2809,61,<5
+FEHB Health Insurance Benefits Event Code,FEHB ,1,SF2809,61,<5
+FEHB Health Insurance Benefits Event Date,FEHB ,1,SF2809,61,<5
+FEHB Health Insurance Benefits Plan Name,FEHB ,1,SF2809,61,<5
+FEHB Health Insurance Benefits Suspension Indicator,FEHB ,1,SF2809,61,<5
+Medicare Advantage Part C Health Insurance Benefits Coverage Indicator,Medicare ,1,SF2809,61,<5
+Medicare Advantage Part C Health Insurance Benefits Coverage Plan Name,Medicare ,1,SF2809,61,<5
+Medicare Advantage Part C Health Insurance Benefits Eligibility Indicator,Medicare ,1,SF2809,61,<5
+Medicare Beneficiary Number,Medicare ,2,SF2809,61,<5
+Medicare Health Insurance Benefits Coverage Indicator,Medicare ,1,SF2809,61,<5
+Medicare Health Insurance Benefits Eligibility Indicator,Medicare ,1,SF2809,61,<5
+Medicare Health Insurance Benefits Reason Indicator,Medicare ,1,SF2809,61,<5
+Medicare Part A Health Insurance Benefits Coverage Indicator,Medicare ,2,SF2809,61,<5
+Medicare Part A Health Insurance Benefits Eligibility Indicator,Medicare ,1,SF2809,61,<5
+Medicare Part B Health Insurance Benefits Annuity Deduction Indicator,Medicare ,1,SF2809,61,<5
+Medicare Part B Health Insurance Benefits Coverage Indicator,Medicare ,2,SF2809,61,<5
+Medicare Part B Health Insurance Benefits Eligibility Indicator,Medicare ,1,SF2809,61,<5
+Medicare Part D Prescription Drug Benefits Eligibility Indicator,Medicare ,1,SF2809,61,<5
+Medicare Part D Prescription Drug Health Care Insurance Benefits Coverage Indicator,Medicare ,3,SF2809,61,<5
+Person Birth Date,Person ,55,SF2809,61,<75
+Person Family Name,Person ,76,SF2809,61,75+
+Person Given Name,Person ,76,SF2809,61,75+
+Person Marital Status Indicator,Person ,6,SF2809,61,<10
+Person Middle Initial,Person ,75,SF2809,61,75+
+Person Middle Name,Person ,76,SF2809,61,75+
+Person Pre-Fix Name,Person ,75,SF2809,61,75+
+Person Relationship Code,Person ,2,SF2809,61,<5
+Person Sex Code,Person ,2,SF2809,61,<5
+Person Signature Date,Person ,76,SF2809,61,75+
+Person Signature Indicator,Person ,51,SF2809,61,<75
+Person Social Security Number,Person ,40,SF2809,61,<50
+Person Suffix Name,Person ,76,SF2809,61,75+
+Person Type Code,Person ,77,SF2809,61,75+
+Remarks,Remarks,10,SF2809,61,<20
+Retirement System Name,Retirement ,5,SF2809,61,<10
+Address City Name,Address ,57,SF2810,34,<75
+Address Line,Address ,58,SF2810,34,<75
+Address Line Extension,Address ,49,SF2810,34,<50
+Address Postal Code,Address ,54,SF2810,34,<75
+Address Postal Extension Code,Address ,48,SF2810,34,<50
+Address State Code,Address ,58,SF2810,34,<75
+Address Type Code,Address ,52,SF2810,34,<75
+Agency Payroll Office Identifier,Agency ,9,SF2810,34,<10
+Agency Subelement Code,Agency ,29,SF2810,34,<50
+Contact Information Phone Number,Contact ,39,SF2810,34,<50
+FEHB Health Insurance Benefits Change to Self Plus One Indicator,FEHB ,1,SF2810,34,<5
+FEHB Health Insurance Benefits Election Effective Date,FEHB ,2,SF2810,34,<5
+FEHB Health Insurance Benefits Enrollee Death Date,FEHB ,2,SF2810,34,<5
+FEHB Health Insurance Benefits Enrollment Code,FEHB ,9,SF2810,34,<10
+FEHB Health Insurance Benefits Enrollment Reinstatement Effective Date,FEHB ,1,SF2810,34,<5
+FEHB Health Insurance Benefits Enrollment Reinstatement Indicator,FEHB ,1,SF2810,34,<5
+FEHB Health Insurance Benefits Insufficient Pay Continuing Coverage Election Rights Notification Date,FEHB ,1,SF2810,34,<5
+FEHB Health Insurance Benefits Nonpay Continuing Coverage Termination Date,FEHB ,1,SF2810,34,<5
+FEHB Health Insurance Benefits Self Only Indicator,FEHB ,1,SF2810,34,<5
+FEHB Health Insurance Benefits Termination Indicator,FEHB ,1,SF2810,34,<5
+FEHB Health Insurance Benefits Transfer in Indicator,FEHB ,1,SF2810,34,<5
+Person Birth Date,Person ,55,SF2810,34,<75
+Person Family Name,Person ,76,SF2810,34,75+
+Person Given Name,Person ,76,SF2810,34,75+
+Person Middle Initial,Person ,75,SF2810,34,75+
+Person Middle Name,Person ,76,SF2810,34,75+
+Person Name Change Indicator,Person ,1,SF2810,34,<5
+Person Pre-Fix Name,Person ,75,SF2810,34,75+
+Person Signature Date,Person ,76,SF2810,34,75+
+Person Signature Indicator,Person ,51,SF2810,34,<75
+Person Social Security Number,Person ,40,SF2810,34,<50
+Person Suffix Name,Person ,76,SF2810,34,75+
+Person Type Code,Person ,77,SF2810,34,75+
+Remarks,Remarks,10,SF2810,34,<20
+Address City Name,Address ,57,SF2817,38,<75
+Address Line,Address ,58,SF2817,38,<75
+Address Line Extension,Address ,49,SF2817,38,<50
+Address Postal Code,Address ,54,SF2817,38,<75
+Address Postal Extension Code,Address ,48,SF2817,38,<50
+Address State Code,Address ,58,SF2817,38,<75
+Address Type Code,Address ,52,SF2817,38,<75
+Agency Received Date,Agency ,5,SF2817,38,<10
+Agency Subelement Code,Agency ,29,SF2817,38,<50
+Contact Information Phone Number,Contact ,39,SF2817,38,<50
+FEGLI Basic Life Insurance Benefits Effective Date,FEGLI ,1,SF2817,38,<5
+FEGLI Basic Life Insurance Benefits Election Indicator,FEGLI ,2,SF2817,38,<5
+FEGLI Benefits Cancelation Date,FEGLI ,1,SF2817,38,<5
+FEGLI Life Insurance Benefits Enrollment Code,FEGLI ,1,SF2817,38,<5
+FEGLI Life Insurance Benefits Event Code,FEGLI ,1,SF2817,38,<5
+FEGLI Life Insurance Benefits Insurance Code,FEGLI ,1,SF2817,38,<5
+FEGLI Life Insurance Benefits Waiver Indicator,FEGLI ,1,SF2817,38,<5
+FEGLI Option A Life Insurance Benefits Effective Date,FEGLI ,1,SF2817,38,<5
+FEGLI Option A Life Insurance Benefits Retirement Election Code,FEGLI ,3,SF2817,38,<5
+FEGLI Option B Life Insurance Benefits Effective Date,FEGLI ,1,SF2817,38,<5
+FEGLI Option B Life Insurance Benefits Multiples Number,FEGLI ,1,SF2817,38,<5
+FEGLI Option B Life Insurance Benefits Retirement Election Code,FEGLI ,3,SF2817,38,<5
+FEGLI Option C Life Insurance Benefits Effective Date,FEGLI ,1,SF2817,38,<5
+FEGLI Option C Life Insurance Benefits Multiples Number,FEGLI ,1,SF2817,38,<5
+FEGLI Option C Life Insurance Benefits Retirement Election Code,FEGLI ,3,SF2817,38,<5
+OWCP Benefits Claim Number,OWCP ,15,SF2817,38,<20
+Pay Deduction Code,Pay ,16,SF2817,38,<20
+Person Birth Date,Person ,55,SF2817,38,<75
+Person Family Name,Person ,76,SF2817,38,75+
+Person Given Name,Person ,76,SF2817,38,75+
+Person Middle Initial,Person ,75,SF2817,38,75+
+Person Middle Name,Person ,76,SF2817,38,75+
+Person Pre-Fix Name,Person ,75,SF2817,38,75+
+Person Signature Indicator,Person ,51,SF2817,38,<75
+Person Social Security Number,Person ,40,SF2817,38,<50
+Person Suffix Name,Person ,76,SF2817,38,75+
+Person Type Code,Person ,77,SF2817,38,75+
+Remarks,Remarks,10,SF2817,38,<20
+Address City Name,Address ,57,SF2818,27,<75
+Address Line,Address ,58,SF2818,27,<75
+Address Line Extension,Address ,49,SF2818,27,<50
+Address Postal Code,Address ,54,SF2818,27,<75
+Address Postal Extension Code,Address ,48,SF2818,27,<50
+Address State Code,Address ,58,SF2818,27,<75
+Address Type Code,Address ,52,SF2818,27,<75
+Agency Subelement Code,Agency ,29,SF2818,27,<50
+FEGLI Basic Life Insurance Benefits Retirement Deduction Code,FEGLI ,3,SF2818,27,<5
+FEGLI Basic Life Insurance Benefits Retirement Election Code,FEGLI ,1,SF2818,27,<5
+FEGLI Life Insurance Benefits Full Reduction Multiples Number,FEGLI ,4,SF2818,27,<5
+FEGLI Life Insurance Benefits No Reduction Multiples Number,FEGLI ,2,SF2818,27,<5
+FEGLI Option A Life Insurance Benefits Retirement Election Code,FEGLI ,3,SF2818,27,<5
+FEGLI Option B Life Insurance Benefits Retirement Election Code,FEGLI ,3,SF2818,27,<5
+FEGLI Option C Life Insurance Benefits Retirement Election Code,FEGLI ,3,SF2818,27,<5
+OWCP Benefits Claim Number,OWCP ,15,SF2818,27,<20
+Person Birth Date,Person ,55,SF2818,27,<75
+Person Family Name,Person ,76,SF2818,27,75+
+Person Given Name,Person ,76,SF2818,27,75+
+Person Middle Initial,Person ,75,SF2818,27,75+
+Person Middle Name,Person ,76,SF2818,27,75+
+Person Pre-Fix Name,Person ,75,SF2818,27,75+
+Person Signature Date,Person ,76,SF2818,27,75+
+Person Signature Indicator,Person ,51,SF2818,27,<75
+Person Social Security Number,Person ,40,SF2818,27,<50
+Person Suffix Name,Person ,76,SF2818,27,75+
+Person Type Code,Person ,77,SF2818,27,75+
+Address City Name,Address ,57,SF2819,31,<75
+Address Line,Address ,58,SF2819,31,<75
+Address Line Extension,Address ,49,SF2819,31,<50
+Address Postal Code,Address ,54,SF2819,31,<75
+Address Postal Extension Code,Address ,48,SF2819,31,<50
+Address State Code,Address ,58,SF2819,31,<75
+Address Type Code,Address ,52,SF2819,31,<75
+Agency Certification of Insurance Status Code,Agency ,1,SF2819,31,<5
+Agency Division,Agency ,7,SF2819,31,<10
+Contact Information Phone Number,Contact ,39,SF2819,31,<50
+FEGLI Basic Life Insurance Benefits Election Indicator,FEGLI ,2,SF2819,31,<5
+FEGLI Life Insurance Benefits Assignment Indicator,FEGLI ,2,SF2819,31,<5
+FEGLI Life Insurance Benefits Conversion Notification Date,FEGLI ,1,SF2819,31,<5
+FEGLI Life Insurance Benefits Designation Assignee Indicator,FEGLI ,2,SF2819,31,<5
+FEGLI Life Insurance Policy Conversion Code,FEGLI ,1,SF2819,31,<5
+FEGLI Option A Life Insurance Benefits Retirement Election Code,FEGLI ,3,SF2819,31,<5
+FEGLI Option B Life Insurance Benefits Retirement Election Code,FEGLI ,3,SF2819,31,<5
+FEGLI Option C Life Insurance Benefits Retirement Election Code,FEGLI ,3,SF2819,31,<5
+FEHB Life Insurance Benefits End Date,FEHB ,1,SF2819,31,<5
+Person Birth Date,Person ,55,SF2819,31,<75
+Person Family Name,Person ,76,SF2819,31,75+
+Person Given Name,Person ,76,SF2819,31,75+
+Person Middle Initial,Person ,75,SF2819,31,75+
+Person Middle Name,Person ,76,SF2819,31,75+
+Person Pre-Fix Name,Person ,75,SF2819,31,75+
+Person Relationship Code,Person ,2,SF2819,31,<5
+Person Signature Date,Person ,76,SF2819,31,75+
+Person Signature Indicator,Person ,51,SF2819,31,<75
+Person Suffix Name,Person ,76,SF2819,31,75+
+Person Type Code,Person ,77,SF2819,31,75+
+Personnel Action Authorizer Title,Personnel ,7,SF2819,31,<10
+Address City Name,Address ,57,SF2823,36,<75
+Address Line,Address ,58,SF2823,36,<75
+Address Line Extension,Address ,49,SF2823,36,<50
+Address Postal Code,Address ,54,SF2823,36,<75
+Address Postal Extension Code,Address ,48,SF2823,36,<50
+Address State Code,Address ,58,SF2823,36,<75
+Address Type Code,Address ,52,SF2823,36,<75
+Agency Division,Agency ,7,SF2823,36,<10
+Agency Received Date,Agency ,5,SF2823,36,<10
+Agency Subelement Code,Agency ,29,SF2823,36,<50
+Beneficiary Designation Cancelation Indicator,Beneficiary ,3,SF2823,36,<5
+Beneficiary Designation Common Disaster Clause Indicator,Beneficiary ,3,SF2823,36,<5
+Beneficiary Relationship Code,Beneficiary ,10,SF2823,36,<20
+Beneficiary Share Percent,Beneficiary ,2,SF2823,36,<5
+Civil Service Insurance Claim Number,Civil ,2,SF2823,36,<5
+Contingency Beneficiary If Living Indicator,Contingency ,3,SF2823,36,<5
+Contingency Beneficiary Organization If Valid Indicator,Contingency ,3,SF2823,36,<5
+Contingency Beneficiary Otherwise to Indicator,Contingency ,3,SF2823,36,<5
+Designated Beneficiary Percent,Designated ,1,SF2823,36,<5
+FEGLI Life Insurance Benefits Designation Assignee Indicator,FEGLI ,2,SF2823,36,<5
+FEGLI Life Insurance Benefits Designation Witness Not Beneficiary Code,FEGLI ,1,SF2823,36,<5
+FEGLI Life Insurance Benefits Designation Witness Signature Indicator,FEGLI ,1,SF2823,36,<5
+OWCP Benefits Claim Number,OWCP ,15,SF2823,36,<20
+Person Birth Date,Person ,55,SF2823,36,<75
+Person Family Name,Person ,76,SF2823,36,75+
+Person Given Name,Person ,76,SF2823,36,75+
+Person Middle Initial,Person ,75,SF2823,36,75+
+Person Middle Name,Person ,76,SF2823,36,75+
+Person Pre-Fix Name,Person ,75,SF2823,36,75+
+Person Signature Date,Person ,76,SF2823,36,75+
+Person Signature Indicator,Person ,51,SF2823,36,<75
+Person Social Security Number,Person ,40,SF2823,36,<50
+Person Suffix Name,Person ,76,SF2823,36,75+
+Person Type Code,Person ,77,SF2823,36,75+
+Position Official Title,Position ,15,SF2823,36,<20
+Retirement Claim Number,Retirement ,8,SF2823,36,<10
+Address City Name,Address ,57,SF3100,24,<75
+Address Line,Address ,58,SF3100,24,<75
+Address Line Extension,Address ,49,SF3100,24,<50
+Address Postal Code,Address ,54,SF3100,24,<75
+Address Postal Extension Code,Address ,48,SF3100,24,<50
+Address State Code,Address ,58,SF3100,24,<75
+Address Type Code,Address ,52,SF3100,24,<75
+Agency Payroll Office Identifier,Agency ,9,SF3100,24,<10
+Agency Subelement Code,Agency ,29,SF3100,24,<50
+Pay Deductions,Pay ,7,SF3100,24,<10
+Payroll Summary Year,Payroll ,6,SF3100,24,<10
+Person Birth Date,Person ,55,SF3100,24,<75
+Person Family Name,Person ,76,SF3100,24,75+
+Person Given Name,Person ,76,SF3100,24,75+
+Person Middle Initial,Person ,75,SF3100,24,75+
+Person Middle Name,Person ,76,SF3100,24,75+
+Person Pre-Fix Name,Person ,75,SF3100,24,75+
+Person Suffix Name,Person ,76,SF3100,24,75+
+Personnel Action Effective Date,Personnel ,3,SF3100,24,<5
+Personnel Action Request Number,Personnel ,2,SF3100,24,<5
+Remarks,Remarks,10,SF3100,24,<20
+Salary Pay Total Amount,Salary ,5,SF3100,24,<10
+Service Deposit/Credit Payment Number,Service ,1,SF3100,24,<5
+Voluntary Separation Incentive Payment (VSIP) Date,Voluntary ,4,SF3100,24,<5
+Address City Name,Address ,57,SF3102,30,<75
+Address Line,Address ,58,SF3102,30,<75
+Address Line Extension,Address ,49,SF3102,30,<50
+Address Postal Code,Address ,54,SF3102,30,<75
+Address Postal Extension Code,Address ,48,SF3102,30,<50
+Address State Code,Address ,58,SF3102,30,<75
+Address Type Code,Address ,52,SF3102,30,<75
+Agency Division,Agency ,7,SF3102,30,<10
+Agency Received Date,Agency ,5,SF3102,30,<10
+Agency Subelement Code,Agency ,29,SF3102,30,<50
+Beneficiary Designation Cancelation Indicator,Beneficiary ,3,SF3102,30,<5
+Beneficiary Designation Common Disaster Clause Indicator,Beneficiary ,3,SF3102,30,<5
+Beneficiary Relationship Code,Beneficiary ,10,SF3102,30,<20
+Contingency Beneficiary If Living Indicator,Contingency ,3,SF3102,30,<5
+Contingency Beneficiary Organization If Valid Indicator,Contingency ,3,SF3102,30,<5
+Contingency Beneficiary Otherwise to Indicator,Contingency ,3,SF3102,30,<5
+FERS Beneficiary Designation Date,FERS ,1,SF3102,30,<5
+FERS Beneficiary Share Percent,FERS ,1,SF3102,30,<5
+Person Birth Date,Person ,55,SF3102,30,<75
+Person Family Name,Person ,76,SF3102,30,75+
+Person Given Name,Person ,76,SF3102,30,75+
+Person Middle Initial,Person ,75,SF3102,30,75+
+Person Middle Name,Person ,76,SF3102,30,75+
+Person Pre-Fix Name,Person ,75,SF3102,30,75+
+Person Signature Date,Person ,76,SF3102,30,75+
+Person Signature Indicator,Person ,51,SF3102,30,<75
+Person Social Security Number,Person ,40,SF3102,30,<50
+Person Suffix Name,Person ,76,SF3102,30,75+
+Person Type Code,Person ,77,SF3102,30,75+
+Retirement Claim Number,Retirement ,8,SF3102,30,<10
+Additional Personnel Action Remarks,Additional ,2,SF3103,27,<5
+Address City Name,Address ,57,SF3103,27,<75
+Address Line,Address ,58,SF3103,27,<75
+Address Line Extension,Address ,49,SF3103,27,<50
+Address Postal Code,Address ,54,SF3103,27,<75
+Address Postal Extension Code,Address ,48,SF3103,27,<50
+Address State Code,Address ,58,SF3103,27,<75
+Address Type Code,Address ,52,SF3103,27,<75
+Agency Payroll Office Identifier,Agency ,9,SF3103,27,<10
+Agency Subelement Code,Agency ,29,SF3103,27,<50
+Agency Subelement Name,Agency ,3,SF3103,27,<5
+Contact Information Phone Number,Contact ,39,SF3103,27,<50
+Employee Separated Date,Employee ,2,SF3103,27,<5
+FEGLI Basic Life Insurance Benefits Retirement Deduction Code,FEGLI ,3,SF3103,27,<5
+Pay Deduction Code,Pay ,16,SF3103,27,<20
+Payroll Summary Year Salary Deduction Amount,Payroll ,8,SF3103,27,<10
+Person Birth Date,Person ,55,SF3103,27,<75
+Person Family Name,Person ,76,SF3103,27,75+
+Person Given Name,Person ,76,SF3103,27,75+
+Person Middle Initial,Person ,75,SF3103,27,75+
+Person Middle Name,Person ,76,SF3103,27,75+
+Person Pre-Fix Name,Person ,75,SF3103,27,75+
+Person Social Security Number,Person ,40,SF3103,27,<50
+Person Suffix Name,Person ,76,SF3103,27,75+
+Person Type Code,Person ,77,SF3103,27,75+
+Retirement Plan Type Code,Retirement ,8,SF3103,27,<10
+Submission as Of Date,Submission ,1,SF3103,27,<5
+Address City Name,Address ,57,SF3104,53,<75
+Address Country Code,Address ,2,SF3104,53,<5
+Address Line,Address ,58,SF3104,53,<75
+Address Line Extension,Address ,49,SF3104,53,<50
+Address Postal Code,Address ,54,SF3104,53,<75
+Address Postal Extension Code,Address ,48,SF3104,53,<50
+Address State Code,Address ,58,SF3104,53,<75
+Address Type Code,Address ,52,SF3104,53,<75
+Agency Subelement Code,Agency ,29,SF3104,53,<50
+Award Type Code,Award ,2,SF3104,53,<5
+Bank Account Number,Bank ,7,SF3104,53,<10
+Bank Account Type Code,Bank ,4,SF3104,53,<5
+Bank Name,Bank ,7,SF3104,53,<10
+Bank Routing Number,Bank ,3,SF3104,53,<5
+Beneficiary Relationship Code,Beneficiary ,10,SF3104,53,<20
+Certificate Issue Date,Certificate ,4,SF3104,53,<5
+Civil Service Insurance Claim Number,Civil ,2,SF3104,53,<5
+Contact Information Email Address,Contact ,11,SF3104,53,<20
+Contact Information Phone Number,Contact ,39,SF3104,53,<50
+Dependents Claimed,Dependents ,4,SF3104,53,<5
+Employee Benefit or Incentive Service Obligation Code,Employee ,7,SF3104,53,<10
+Employee on Agency Rolls Indicator,Employee ,5,SF3104,53,<10
+FEHB Health Insurance Benefits Continuing Coverage Code,FEHB ,6,SF3104,53,<10
+FEHB Health Insurance Benefits Enrollee Death Date,FEHB ,2,SF3104,53,<5
+Former Spouse Survivor Annuity Indicator,Former ,5,SF3104,53,<10
+Living Former Spouse Court Order Retirement Annuity Code,Living ,7,SF3104,53,<10
+Military Discharge Type Code,Military ,2,SF3104,53,<5
+Military Retainer Pay Waived Indicator,Military ,3,SF3104,53,<5
+Military Service Branch Type Code,Military ,3,SF3104,53,<5
+Military Service Retirement Rank,Military ,2,SF3104,53,<5
+OWCP Benefits Claim Number,OWCP ,15,SF3104,53,<20
+OWCP Benefits Death Indicator,OWCP ,9,SF3104,53,<10
+Pay Deduction Code,Pay ,16,SF3104,53,<20
+Person Birth Date,Person ,55,SF3104,53,<75
+Person Disability Code,Person ,17,SF3104,53,<20
+Person Family Name,Person ,76,SF3104,53,75+
+Person Given Name,Person ,76,SF3104,53,75+
+Person Marital Status Indicator,Person ,6,SF3104,53,<10
+Person Middle Initial,Person ,75,SF3104,53,75+
+Person Middle Name,Person ,76,SF3104,53,75+
+Person Pre-Fix Name,Person ,75,SF3104,53,75+
+Person Signature Date,Person ,76,SF3104,53,75+
+Person Signature Indicator,Person ,51,SF3104,53,<75
+Person Social Security Number,Person ,40,SF3104,53,<50
+Person Suffix Name,Person ,76,SF3104,53,75+
+Person Type Code,Person ,77,SF3104,53,75+
+Retirement Claim Number,Retirement ,8,SF3104,53,<10
+Retirement Date,Retirement ,1,SF3104,53,<5
+Retirement Direct Deposit Indicator,Retirement ,31,SF3104,53,<50
+Retirement System Name,Retirement ,5,SF3104,53,<10
+Salary Pay Total Amount,Salary ,5,SF3104,53,<10
+US Citizenship Person Identification Indicator,US ,2,SF3104,53,<5
+Work Schedule Tour Start Time,Work ,1,SF3104,53,<5
+Address City Name,Address ,57,SF3104B,55,<75
+Address Line,Address ,58,SF3104B,55,<75
+Address Line Extension,Address ,49,SF3104B,55,<50
+Address Postal Code,Address ,54,SF3104B,55,<75
+Address Postal Extension Code,Address ,48,SF3104B,55,<50
+Address State Code,Address ,58,SF3104B,55,<75
+Address Type Code,Address ,52,SF3104B,55,<75
+Agency Subelement Code,Agency ,29,SF3104B,55,<50
+Bank Account Number,Bank ,7,SF3104B,55,<10
+Bank Name,Bank ,7,SF3104B,55,<10
+Basic Employee Death Benefits Last 52 Week Total Worked Hours,Basic ,2,SF3104B,55,<5
+Contact Information E-mail Address,Contact ,9,SF3104B,55,<10
+Contact Information Phone Number,Contact ,39,SF3104B,55,<50
+Federal Tax Withholding Additional Amount,Federal ,1,SF3104B,55,<5
+FEGLI Life Insurance Benefits Assignment Indicator,FEGLI ,2,SF3104B,55,<5
+FEGLI Life Insurance Benefits Basic Pay Annual Rate,FEGLI ,1,SF3104B,55,<5
+FEGLI Life Insurance Benefits Coverage Code,FEGLI ,21,SF3104B,55,<50
+FEGLI Life Insurance Benefits Living Benefits Code,FEGLI ,3,SF3104B,55,<5
+FEHB Health Insurance Benefits Continuing Coverage Code,FEHB ,6,SF3104B,55,<10
+FEHB Health Insurance Benefits Enrollment Code,FEHB ,9,SF3104B,55,<10
+FERS Retirement Coverage Code,FERS ,4,SF3104B,55,<5
+Former Spouse Survivor Annuity Indicator,Former ,5,SF3104B,55,<10
+HR Transaction Employee,HR ,3,SF3104B,55,<5
+Military Service Serial Number,Military ,3,SF3104B,55,<5
+Nature of Action Code,Nature ,3,SF3104B,55,<5
+Non-Deduction Service LWOP Hours,Non-Deduction ,2,SF3104B,55,<5
+Organization Personnel Office Identifier,Organization ,3,SF3104B,55,<5
+OWCP Benefits Claim Number,OWCP ,15,SF3104B,55,<20
+OWCP Benefits Death Indicator,OWCP ,9,SF3104B,55,<10
+Pay Basis Code,Pay ,4,SF3104B,55,<5
+Pay Deduction Code,Pay ,16,SF3104B,55,<20
+Pay Tax Elections,Pay ,2,SF3104B,55,<5
+Person Birth Date,Person ,55,SF3104B,55,<75
+Person Family Name,Person ,76,SF3104B,55,75+
+Person Given Name,Person ,76,SF3104B,55,75+
+Person Middle Initial,Person ,75,SF3104B,55,75+
+Person Middle Name,Person ,76,SF3104B,55,75+
+Person Pre-Fix Name,Person ,75,SF3104B,55,75+
+Person Signature Date,Person ,76,SF3104B,55,75+
+Person Signature Indicator,Person ,51,SF3104B,55,<75
+Person Social Security Number,Person ,40,SF3104B,55,<50
+Person Suffix Name,Person ,76,SF3104B,55,75+
+Person Type Code,Person ,77,SF3104B,55,75+
+Personnel Action Authorizer Title,Personnel ,7,SF3104B,55,<10
+Position Official Title,Position ,15,SF3104B,55,<20
+Remarks,Remarks,10,SF3104B,55,<20
+Retirement Direct Deposit Indicator,Retirement ,31,SF3104B,55,<50
+Retirement Plan Code,Retirement ,7,SF3104B,55,<10
+Retirement Prior Coverage Indicator,Retirement ,1,SF3104B,55,<5
+Retirement Service Computation Date,Retirement ,5,SF3104B,55,<10
+Retirement System Name,Retirement ,5,SF3104B,55,<10
+Salary Pay Rate Amount,Salary ,5,SF3104B,55,<10
+Service Credit Payment Type Code,Service ,4,SF3104B,55,<5
+Service Deposit/Credit Balance Due Amount,Service ,1,SF3104B,55,<5
+Service Deposit/Credit Interest Due Amount,Service ,1,SF3104B,55,<5
+Address City Name,Address ,57,SF3106,42,<75
+Address Country Code,Address ,2,SF3106,42,<5
+Address Line,Address ,58,SF3106,42,<75
+Address Postal Code,Address ,54,SF3106,42,<75
+Address State Code,Address ,58,SF3106,42,<75
+Address Type Code,Address ,52,SF3106,42,<75
+Agency Special Service Certification Letter Indicator,Agency ,2,SF3106,42,<5
+Agency Subelement Code,Agency ,29,SF3106,42,<50
+Bank Account Number,Bank ,7,SF3106,42,<10
+Bank Account Type Code,Bank ,4,SF3106,42,<5
+Bank Name,Bank ,7,SF3106,42,<10
+Bank Routing Number,Bank ,3,SF3106,42,<5
+Contact Information E-mail Address,Contact ,9,SF3106,42,<10
+Contact Information Phone Number,Contact ,39,SF3106,42,<50
+Employee Initial Appointment Period Start Date,Employee ,2,SF3106,42,<5
+Military Service Deposit Election Indicator,Military ,1,SF3106,42,<5
+Military Service Deposit Payment Status Code,Military ,2,SF3106,42,<5
+Organization Personnel Office Identifier,Organization ,3,SF3106,42,<5
+Pay Deduction Code,Pay ,16,SF3106,42,<20
+Person Annuitant Code,Person ,2,SF3106,42,<5
+Person Birth Date,Person ,55,SF3106,42,<75
+Person Family Name,Person ,76,SF3106,42,75+
+Person Given Name,Person ,76,SF3106,42,75+
+Person Marital Status Indicator,Person ,6,SF3106,42,<10
+Person Middle Initial,Person ,75,SF3106,42,75+
+Person Middle Name,Person ,76,SF3106,42,75+
+Person Pre-Fix Name,Person ,75,SF3106,42,75+
+Person Signature Date,Person ,76,SF3106,42,75+
+Person Signature Indicator,Person ,51,SF3106,42,<75
+Person Social Security Number,Person ,40,SF3106,42,<50
+Person Suffix Name,Person ,76,SF3106,42,75+
+Person Type Code,Person ,77,SF3106,42,75+
+Personnel Action Authorizer Title,Personnel ,7,SF3106,42,<10
+Position Official Title,Position ,15,SF3106,42,<20
+Retirement Cumulative Salary Deduction Amount,Retirement ,1,SF3106,42,<5
+Retirement Direct Deposit Indicator,Retirement ,31,SF3106,42,<50
+Retirement Service Computation Date,Retirement ,5,SF3106,42,<10
+Retirement Voluntary Contributions Payment Frequency Code,Retirement ,1,SF3106,42,<5
+Summary of Service End Date,Summary ,1,SF3106,42,<5
+Tax Code,Tax ,1,SF3106,42,<5
+TSP Participant Account Type Code,TSP ,1,SF3106,42,<5
+TSP Primary Beneficiary Foreign Address Indicator,TSP ,1,SF3106,42,<5
+Active Military Service Uniformed Service Indicator,Active ,2,SF3107,88,<5
+Address City Name,Address ,57,SF3107,88,<75
+Address Line,Address ,58,SF3107,88,<75
+Address Line Extension,Address ,49,SF3107,88,<50
+Address Postal Code,Address ,54,SF3107,88,<75
+Address Postal Extension Code,Address ,48,SF3107,88,<50
+Address State Code,Address ,58,SF3107,88,<75
+Address Type Code,Address ,52,SF3107,88,<75
+Agency Annuity Estimate Indicator,Agency ,1,SF3107,88,<5
+Agency Division,Agency ,7,SF3107,88,<10
+Agency Special Service Certification Letter Indicator,Agency ,2,SF3107,88,<5
+Agency Subelement Code,Agency ,29,SF3107,88,<50
+Application Type Code,Application ,3,SF3107,88,<5
+Bank Account Number,Bank ,7,SF3107,88,<10
+Bank Account Type Code,Bank ,4,SF3107,88,<5
+Bank Name,Bank ,7,SF3107,88,<10
+Bank Routing Number,Bank ,3,SF3107,88,<5
+Basic Pay Plan Code,Basic ,2,SF3107,88,<5
+Beneficiary Relationship Code,Beneficiary ,10,SF3107,88,<20
+Contact Information E-mail Address,Contact ,9,SF3107,88,<10
+Contact Information Fax Number,Contact ,3,SF3107,88,<5
+Contact Information Phone Number,Contact ,39,SF3107,88,<50
+CSRS Retirement Component Indicator,CSRS ,1,SF3107,88,<5
+Employee Position End Date,Employee ,7,SF3107,88,<10
+Employee Position Start Date,Employee ,5,SF3107,88,<10
+FEGLI Life Insurance Benefits Court Order Indicator,FEGLI ,2,SF3107,88,<5
+FEGLI Life Insurance Benefits Coverage Code,FEGLI ,21,SF3107,88,<50
+FEGLI Life Insurance Benefits Full Reduction Multiples Number,FEGLI ,4,SF3107,88,<5
+FEGLI Life Insurance Benefits Living Benefits Code,FEGLI ,3,SF3107,88,<5
+FEHB Eligible Court Order Indicator,FEHB ,1,SF3107,88,<5
+FEHB Health Insurance Benefits Enrollment Code,FEHB ,9,SF3107,88,<10
+FERS Retirement Coverage Code,FERS ,4,SF3107,88,<5
+Last Day in Pay Status Date,Last ,1,SF3107,88,<5
+Living Former Spouse Court Order Retirement OPM Verification Request Indicator,Living ,1,SF3107,88,<5
+Military Pay Total Earnings Amount,Military ,2,SF3107,88,<5
+Military Retainer Pay Type Code,Military ,4,SF3107,88,<5
+Military Retainer Pay Waived Indicator,Military ,3,SF3107,88,<5
+Military Retirement or Transfer to Fleet Reserve Code,Military ,1,SF3107,88,<5
+Military Service Active Duty End Date,Military ,2,SF3107,88,<5
+Military Service Active Duty Start Date,Military ,2,SF3107,88,<5
+Military Service Branch Type Code,Military ,3,SF3107,88,<5
+Military Service Deposit Payment Status Code,Military ,2,SF3107,88,<5
+Military Service Deposit Remaining Balance Amount,Military ,2,SF3107,88,<5
+Military Service Lost Time Days,Military ,1,SF3107,88,<5
+Military Service Retirement Rank,Military ,2,SF3107,88,<5
+Military Service Serial Number,Military ,3,SF3107,88,<5
+National Guard Military Service Indicator,National ,1,SF3107,88,<5
+Nature of Action Code,Nature ,3,SF3107,88,<5
+Non-Deduction Service LWOP Hours,Non-Deduction ,2,SF3107,88,<5
+OPM Form 1510 Submission Indicator,OPM ,1,SF3107,88,<5
+Organization Personnel Office Identifier,Organization ,3,SF3107,88,<5
+OWCP Benefits Claim Number,OWCP ,15,SF3107,88,<20
+OWCP Benefits Supporting Documentation Indicator,OWCP ,1,SF3107,88,<5
+Pay Basis Code,Pay ,4,SF3107,88,<5
+Payroll Allotment Rate,Payroll ,1,SF3107,88,<5
+Person Birth Date,Person ,55,SF3107,88,<75
+Person Disability Code,Person ,17,SF3107,88,<20
+Person Family Name,Person ,76,SF3107,88,75+
+Person Given Name,Person ,76,SF3107,88,75+
+Person Initials,Person ,4,SF3107,88,<5
+Person Marital Status Indicator,Person ,6,SF3107,88,<10
+Person Middle Initial,Person ,75,SF3107,88,75+
+Person Middle Name,Person ,76,SF3107,88,75+
+Person Pre-Fix Name,Person ,75,SF3107,88,75+
+Person Signature Date,Person ,76,SF3107,88,75+
+Person Signature Indicator,Person ,51,SF3107,88,<75
+Person Social Security Number,Person ,40,SF3107,88,<50
+Person Suffix Name,Person ,76,SF3107,88,75+
+Person Type Code,Person ,77,SF3107,88,75+
+Personnel Action Authorizer Title,Personnel ,7,SF3107,88,<10
+Position Occupational Series Code,Position ,2,SF3107,88,<5
+Position Official Title,Position ,15,SF3107,88,<20
+Remarks,Remarks,10,SF3107,88,<20
+Retirement Claim Number,Retirement ,8,SF3107,88,<10
+Retirement Continuation Health Care Insurance Benefits Coverage Code,Retirement ,2,SF3107,88,<5
+Retirement Direct Deposit Indicator,Retirement ,31,SF3107,88,<50
+Retirement FERCCA Code,Retirement ,1,SF3107,88,<5
+Retirement Plan Code,Retirement ,7,SF3107,88,<10
+Retirement Plan Type Code,Retirement ,8,SF3107,88,<10
+Retirement Record Type Code,Retirement ,1,SF3107,88,<5
+Retirement Service Computation Date,Retirement ,5,SF3107,88,<10
+Retirement System Name,Retirement ,5,SF3107,88,<10
+Retirement Voluntary Contributions Payment Indicator,Retirement ,1,SF3107,88,<5
+Salary Pay Rate Amount,Salary ,5,SF3107,88,<10
+Spousal Consent Form Submission Indicator,Spousal ,9,SF3107,88,<10
+US Citizenship Person Identification Indicator,US ,2,SF3107,88,<5
+Verifier Authorization Expiration Date,Verifier ,1,SF3107,88,<5
+Voluntary Separation Incentive Payment (VSIP) Date,Voluntary ,4,SF3107,88,<5
+Absence Code,Absence ,3,SF3108,51,<5
+Address City Name,Address ,57,SF3108,51,<75
+Address Line,Address ,58,SF3108,51,<75
+Address Line Extension,Address ,49,SF3108,51,<50
+Address Postal Code,Address ,54,SF3108,51,<75
+Address Postal Extension Code,Address ,48,SF3108,51,<50
+Address State Code,Address ,58,SF3108,51,<75
+Address Type Code,Address ,52,SF3108,51,<75
+Agency Division,Agency ,7,SF3108,51,<10
+Agency Subelement Code,Agency ,29,SF3108,51,<50
+Application Type Code,Application ,3,SF3108,51,<5
+Contact Information Email Address,Contact ,11,SF3108,51,<20
+Contact Information E-mail Address,Contact ,9,SF3108,51,<10
+Contact Information Fax Number,Contact ,3,SF3108,51,<5
+Contact Information Phone Number,Contact ,39,SF3108,51,<50
+Employee Position End Date,Employee ,7,SF3108,51,<10
+Employee Position Start Date,Employee ,5,SF3108,51,<10
+FERS Coverage Election Effective Date,FERS ,1,SF3108,51,<5
+FERS Retirement Coverage Election Indicator,FERS ,1,SF3108,51,<5
+Military Service Active Duty End Date,Military ,2,SF3108,51,<5
+Military Service Active Duty Start Date,Military ,2,SF3108,51,<5
+Military Service Branch Type Code,Military ,3,SF3108,51,<5
+Military Service Deposit Interest Accrual Date,Military ,1,SF3108,51,<5
+Military Service Deposit USERRA Indicator,Military ,1,SF3108,51,<5
+Nature of Action Code,Nature ,3,SF3108,51,<5
+Pay Basis Code,Pay ,4,SF3108,51,<5
+Pay Pay Period End Date,Pay ,2,SF3108,51,<5
+Pay Pay Period Start Date,Pay ,2,SF3108,51,<5
+Person Birth Date,Person ,55,SF3108,51,<75
+Person Family Name,Person ,76,SF3108,51,75+
+Person Given Name,Person ,76,SF3108,51,75+
+Person Middle Initial,Person ,75,SF3108,51,75+
+Person Middle Name,Person ,76,SF3108,51,75+
+Person Pre-Fix Name,Person ,75,SF3108,51,75+
+Person Signature Date,Person ,76,SF3108,51,75+
+Person Signature Indicator,Person ,51,SF3108,51,<75
+Person Social Security Number,Person ,40,SF3108,51,<50
+Person Suffix Name,Person ,76,SF3108,51,75+
+Person Type Code,Person ,77,SF3108,51,75+
+Personnel Action NTE Date,Personnel ,1,SF3108,51,<5
+Position Official Title,Position ,15,SF3108,51,<20
+Remarks,Remarks,10,SF3108,51,<20
+Retirement Claim Number,Retirement ,8,SF3108,51,<10
+Retirement Plan Type Code,Retirement ,8,SF3108,51,<10
+Retirement Service Application Code,Retirement ,2,SF3108,51,<5
+Retirement System Name,Retirement ,5,SF3108,51,<10
+Retirement Witholdings Deduction Type Code,Retirement ,4,SF3108,51,<5
+Salary Pay Rate Amount,Salary ,5,SF3108,51,<10
+Salary Pay Total Amount,Salary ,5,SF3108,51,<10
+Service Credit Payment Type Code,Service ,4,SF3108,51,<5
+Service Period Pay Indicator,Service ,2,SF3108,51,<5
+Absence Code,Absence ,3,SF3112,43,<5
+Address City Name,Address ,57,SF3112,43,<75
+Address Line,Address ,58,SF3112,43,<75
+Address Line Extension,Address ,49,SF3112,43,<50
+Address Postal Code,Address ,54,SF3112,43,<75
+Address Postal Extension Code,Address ,48,SF3112,43,<50
+Address State Code,Address ,58,SF3112,43,<75
+Address Type Code,Address ,52,SF3112,43,<75
+Agency Subelement Code,Agency ,29,SF3112,43,<50
+Appointment Days Limitation NTE,Appointment ,3,SF3112,43,<5
+Contact Information Email Address,Contact ,11,SF3112,43,<20
+Contact Information Phone Number,Contact ,39,SF3112,43,<50
+Disability Retirement Application Date,Disability ,1,SF3112,43,<5
+Disability Retirement Duty Status Indicator,Disability ,4,SF3112,43,<5
+Employee Within Grade Increase Date,Employee ,5,SF3112,43,<10
+Entry on Duty Start Date,Entry ,1,SF3112,43,<5
+Military Service Veterans Preference Code,Military ,4,SF3112,43,<5
+OWCP Benefits Claim Number,OWCP ,15,SF3112,43,<20
+Pay Code,Pay ,4,SF3112,43,<5
+Pay Status,Pay ,4,SF3112,43,<5
+Performance Rating of Record Level Number,Performance ,1,SF3112,43,<5
+Performance Rating of Record Pattern Number,Performance ,6,SF3112,43,<10
+Person Birth Date,Person ,55,SF3112,43,<75
+Person Disability Code,Person ,17,SF3112,43,<20
+Person Family Name,Person ,76,SF3112,43,75+
+Person Given Name,Person ,76,SF3112,43,75+
+Person Middle Initial,Person ,75,SF3112,43,75+
+Person Middle Name,Person ,76,SF3112,43,75+
+Person Pre-Fix Name,Person ,75,SF3112,43,75+
+Person Signature Date,Person ,76,SF3112,43,75+
+Person Signature Indicator,Person ,51,SF3112,43,<75
+Person Social Security Number,Person ,40,SF3112,43,<50
+Person Special Accommodation Description Text,Person ,7,SF3112,43,<10
+Person Suffix Name,Person ,76,SF3112,43,75+
+Person Type Code,Person ,77,SF3112,43,75+
+Position Official Title,Position ,15,SF3112,43,<20
+Present Grade Service Years Amount,Present ,1,SF3112,43,<5
+Prior Service Excessive Absence Without Pay Indicator,Prior ,4,SF3112,43,<5
+"Reason for Resignation, Retirement, Failure to Relocate or to Accept Reassignment Text",Reason ,9,SF3112,43,<10
+Retirement Direct Deposit Indicator,Retirement ,31,SF3112,43,<50
+Retirement Service Computation Date,Retirement ,5,SF3112,43,<10
+Time Reporting Code,Time ,1,SF3112,43,<5
+Work Schedule Time Reporting Code,Work ,5,SF3112,43,<10
